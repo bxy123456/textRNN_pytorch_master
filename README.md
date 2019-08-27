@@ -24,4 +24,4 @@ ues lstm network to get a Text Classification
 
 
 
-经过无数次的实验对模型选择最终分类结果的准确率已达到99.86%
+经过无数次的实验对模型选择最终分类结果的准确率已达到72.86%
